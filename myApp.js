@@ -3,37 +3,6 @@ let app = express();
 
 
 
+console.log("Hello World")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- module.exports = app;
+module.exports = app;
