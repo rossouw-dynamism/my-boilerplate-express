@@ -2,7 +2,11 @@
 	"name": "fcc-learn-node-with-express",
 	"author": "rossouw consult",
 	"description": "learning node with express",
-	"keywords": ["freecodecamp", "lifelonglearner", "follow the white rabbit"],
+	"keywords": [
+		"freecodecamp",
+		"lifelonglearner",
+		"follow the white rabbit"
+	],
 	"version": "0.1.0",
 	"license": "MIT",
 	"dependencies": {
@@ -10,7 +14,6 @@
 		"body-parser": "^1.15.2",
 		"cookie-parser": "^1.4.3",
 		"fcc-express-bground": "0.0.5"
-		
 	},
 	"main": "server.js",
 	"scripts": {
